@@ -1,6 +1,7 @@
 {
   "name": "Draicor Bros",
   "short_name": "Draicor",
+  "id": "/",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#0f0f23",
@@ -9,13 +10,25 @@
   "icons": [
     {
       "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3m-tXNta2ExpNSHyeRAKX-FJB9MjGE5xkObUYfW89qukcmH0luQOR30SVPCJqg5HiGqMfkTSqGQ50IXvePUIMm-sJYeV7zR-ab887Ana0XkLW69WuBbf9vNte4GVA3_cEgWMR3JuZ6chQPrkFoa3W54Lo6LAjNFZBM5sKSp_FFEV8g61OLpLHqHQB/s1600/Logo_Draicor_Bros.jpg",
-      "sizes": "192x192",
-      "type": "image/jpeg"
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_5j6_LgB5n_oD4XzM_P-D6J1G5B5z6X7C8V9B0N1M2A3S4D5F6G7H8J9K0L1/s1600/draicor_wide.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Gameplay on Desktop"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3m-tXNta2ExpNSHyeRAKX-FJB9MjGE5xkObUYfW89qukcmH0luQOR30SVPCJqg5HiGqMfkTSqGQ50IXvePUIMm-sJYeV7zR-ab887Ana0XkLW69WuBbf9vNte4GVA3_cEgWMR3JuZ6chQPrkFoa3W54Lo6LAjNFZBM5sKSp_FFEV8g61OLpLHqHQB/s1600/Logo_Draicor_Bros.jpg",
-      "sizes": "512x512",
-      "type": "image/jpeg"
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_5j6_LgB5n_oD4XzM_P-D6J1G5B5z6X7C8V9B0N1M2A3S4D5F6G7H8J9K0L1/s1600/draicor_mobile.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Gameplay on Mobile"
     }
   ]
 }
